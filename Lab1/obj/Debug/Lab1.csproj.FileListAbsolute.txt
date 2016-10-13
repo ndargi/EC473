@@ -1,0 +1,9 @@
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\bin\Debug\Lab1.exe.config
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\bin\Debug\Lab1.exe
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\bin\Debug\Lab1.pdb
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.exe
+Y:\Boston University\Senior\Software Design\Lab1\Lab1\obj\Debug\Lab1.pdb
